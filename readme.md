@@ -5,9 +5,9 @@
 
 ![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
-- index.html - https://cdn.fwd.dev/index.html
 - vue.js - https://cdn.fwd.dev/vue.js
 - axios.js - https://cdn.fwd.dev/axios.js
+- index.html - https://cdn.fwd.dev/index.html
 
 ![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
