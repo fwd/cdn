@@ -1,7 +1,12 @@
 ![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
-<h1 align="center" style="font-size: 30px">Simple Website Template</h1>
-<h3 align="center" style="font-size: 30px">(HTML + Vue2 + Github Pages)</h3>
+<h1 align="center" style="font-size: 30px">Simple Development CDN</h1>
+
+![line](https://github.com/fwd/n2/raw/master/.github/line.png)
+
+- [Html](https://cdn.fwd.dev/index.html)
+- [Vue2](https://cdn.fwd.dev/vue.js)
+- [Axios](https://cdn.fwd.dev/axios.js)
 
 ![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
@@ -52,7 +57,7 @@
 </html>
 ```
 
-## Github Pages
+![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
 - Github repo must be public
 - Go to [Settings Page](/../../settings/pages)
