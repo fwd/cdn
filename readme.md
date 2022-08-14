@@ -1,12 +1,13 @@
 ![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
 <h1 align="center" style="font-size: 30px">Simple Development CDN</h1>
+<h2 align="center" style="font-size: 30px">Hosted on Github Pages</h2>
 
 ![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
-- [Html](https://cdn.fwd.dev/index.html)
-- [Vue2](https://cdn.fwd.dev/vue.js)
-- [Axios](https://cdn.fwd.dev/axios.js)
+- [index.html](https://cdn.fwd.dev/index.html)
+- [vue.js](https://cdn.fwd.dev/vue.js)
+- [axios.js](https://cdn.fwd.dev/axios.js)
 
 ![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
